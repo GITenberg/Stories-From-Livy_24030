@@ -1,0 +1,36 @@
+_repo: Stories-From-Livy_24030
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Pinelli, Bartolomeo
+    birthdate: 1781
+    deathdate: 1835
+    gutenberg_agent_id: '26174'
+    url: http://www.gutenberg.org/2009/agents/26174
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Church, Alfred John
+    alias: Church, Alfred J.
+    birthdate: 1829
+    deathdate: 1912
+    gutenberg_agent_id: '2020'
+    url: http://www.gutenberg.org/2009/agents/2020
+    wikipedia: https://en.wikipedia.org/wiki/Alfred_John_Church
+description: ''
+gutenberg_bookshelf: Children's Instructional Books
+gutenberg_issued: '2007-12-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24030'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rome -- History -- Juvenile literature'
+- !lcc 'PZ'
+title: Stories From Livy
+url: http://www.gutenberg.org/ebooks/24030
